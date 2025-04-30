@@ -8,6 +8,7 @@ on:
     branches:
       - 'release**'
       - 'Release**'
+      - 'master'
 jobs:
     display_ops_PRs:
       runs-on: ubuntu-latest
