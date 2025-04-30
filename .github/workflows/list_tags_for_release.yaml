@@ -32,7 +32,7 @@ jobs:
                 "categories": [
                 {
                   "title": "## Ops changes:",
-                  "labels": ['ops:**'']
+                  "labels": ['ops:**']
                 }
                 ],
                 "ignore_labels": [
